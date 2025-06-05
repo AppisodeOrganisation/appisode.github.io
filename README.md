@@ -1,5 +1,5 @@
 # appisode.github.io
-<!doctype html><html lang="tr"><meta charset="utf-8">
+<html lang="tr"><meta charset="utf-8">
 <title>APPISODE YAZILIM TEKNOLOJILERI LIMITED SIRKETI</title>
 <h1>APPISODE YAZILIM TEKNOLOJILERI LIMITED SIRKETI</h1>
 <p>BILGISAYAR PROGRAMLAMA FAALIYETLERI</p>
