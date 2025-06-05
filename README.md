@@ -1,7 +1,71 @@
-# appisode.github.io
-<html lang="tr"><meta charset="utf-8">
-<h1>APPISODE YAZILIM TEKNOLOJILERI LIMITED SIRKETI</h1>
-<p>BILGISAYAR PROGRAMLAMA FAALIYETLERI</p>
-<p>MERSİS / Vergi No: 0711040410</p>
-<p>İletişim: admin@appisode.org • +90 541 375 46 09</p>
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <title>Appisode Yazılım Teknolojileri Limited Şirketi</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body{
+      margin:0;
+      font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;
+      background:#f5f7fa;
+      display:flex;
+      min-height:100vh;
+      align-items:center;
+      justify-content:center;
+      text-align:center;
+      color:#333;
+    }
+    .card{
+      background:#fff;
+      padding:40px 32px;
+      max-width:480px;
+      box-shadow:0 6px 18px rgba(0,0,0,.08);
+      border-radius:10px;
+    }
+    h1{
+      margin-top:0;
+      font-size:1.8rem;
+    }
+    p{
+      margin:12px 0;
+      line-height:1.5;
+    }
+    .chip{
+      display:inline-block;
+      padding:4px 10px;
+      border-radius:16px;
+      background:#e7f3ff;
+      font-size:.8rem;
+      color:#0366d6;
+      margin-top:4px;
+    }
+    a{color:#0366d6;text-decoration:none}
+    small{font-size:.8rem;color:#666}
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>Appisode Yazılım Teknolojileri<br>Limited Şirketi</h1>
+
+    <p class="chip">iOS &amp; Android Mobil Uygulamalar</p>
+
+    <p>Hızlı, güvenilir ve kullanıcı odaklı mobil uygulamalar geliştiriyoruz.</p>
+
+    <p>
+      <strong>İletişim:</strong><br>
+      <a href="mailto:admin@appisode.org">admin@appisode.org</a><br>
+      +90&nbsp;541&nbsp;375&nbsp;46&nbsp;09
+    </p>
+
+    <p>
+      <strong>Adres:</strong><br>
+      Adnan Kahveci Mah. Kuştepe Cad.<br>
+      Manolya Apartmanı&nbsp;10.&nbsp;Blok,<br>
+      Manolya&nbsp;No: 4 A/İç Kapı&nbsp;40<br>
+      Beylikdüzü / İstanbul
+    </p>
+
+  </div>
+</body>
 </html>
